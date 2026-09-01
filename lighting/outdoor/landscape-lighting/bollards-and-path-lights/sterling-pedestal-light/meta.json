@@ -1,0 +1,20 @@
+{
+    "name": "Sterling Pedestal Light",
+    "desc": "A modern outdoor bollard light designed for pathway, garden, and landscape illumination. Its sturdy vertical form with layered light bands provides uniform illumination while enhancing safety and visual appeal in outdoor environments.",
+    "specifications": {
+        "Category": "Outdoor Lighting",
+        "Wattage (W)": "10W – 20W",
+        "Efficacy (lm/W)": "90 – 110 lm/W",
+        "Light Source": "Integrated LED",
+        "Lumen Output": "900 – 1800 lumens",
+        "CCT Options": "3000K / 4000K / 6500K",
+        "CRI": "≥70",
+        "Beam Distribution": "360° diffused lighting",
+        "Material": "Die-cast aluminum body with diffuser",
+        "Finish": "Powder-coated black",
+        "Ingress Protection": "IP65",
+        "Mount Type": "Ground-mounted",
+        "Voltage": "220–240V",
+        "Lifetime": "30,000 – 50,000 hours"
+    }
+}

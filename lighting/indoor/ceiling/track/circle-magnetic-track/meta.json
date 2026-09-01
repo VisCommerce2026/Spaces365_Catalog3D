@@ -1,0 +1,19 @@
+{
+    "name": "Circle Magnetic Track",
+    "desc": "A circular magnetic track lighting system designed for modern interiors that need flexible accent and ambient illumination. Its ring-shaped track allows compatible magnetic light modules to create a clean architectural ceiling feature with adaptable lighting direction.",
+    "specifications": {
+        "Category": "Track Lighting",
+        "Fixture Type": "Circular magnetic track system",
+        "Wattage (W)": "Module dependent",
+        "Efficacy (lm/W)": "80-110 lm/W",
+        "Light Source": "Compatible magnetic LED modules",
+        "CCT Options": "3000K / 4000K / 6500K",
+        "CRI": ">=80",
+        "Beam Distribution": "Adjustable accent and ambient lighting",
+        "Material": "Aluminum track body",
+        "Finish": "Powder-coated black",
+        "Mount Type": "Ceiling-mounted track",
+        "Voltage": "Low-voltage magnetic track system",
+        "Use Case": "Retail / Living room / Gallery / Office"
+    }
+}

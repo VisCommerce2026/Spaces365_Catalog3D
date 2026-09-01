@@ -1,0 +1,23 @@
+{
+    "name": "WAC Lighting Window",
+    "desc": "Window architectural wall light by WAC Lighting, featuring adjustable up-and-down illumination, selectable CCT, dynamic beam angle control, and an IP65-rated corrosion-resistant aluminum body for indoor or outdoor applications.",
+    "specifications": {
+        "Category": "Architectural Wall Lighting",
+        "Fixture Type": "Up/Down Wall Light",
+        "Delivered Lumens": "535 lm",
+        "CCT": "CCT Selectable",
+        "CRI": "90",
+        "Power": "16.5W",
+        "Input": "120-277 VAC, 50/60Hz",
+        "Rated Life": "50000 Hours",
+        "Construction": "Corrosion resistant aluminum alloy",
+        "Light Distribution": "Up and down lights",
+        "CCT": "2700K, 3000K, 3500K, 4000K",
+        "Beam Angle": "0°-105°",
+        "Beam Pattern Control": "Different light patterns can be created by adjusting the beam",
+        "Indoor/Outdoor": "Suitable for indoor or outdoor use",
+        "IP Rating": "IP65",
+        "Mounting": "Can be mounted on wall in all orientations",
+        "Product Link": "https://waclighting.com/product/window/"
+    }
+}

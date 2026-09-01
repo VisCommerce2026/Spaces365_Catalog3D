@@ -1,0 +1,20 @@
+{
+    "name": "Pendant Lamp",
+    "desc": "A modern pendant lamp designed for focused and ambient interior lighting. Its suspended form works well above dining tables, kitchen islands, counters, and bedside areas where a clean vertical lighting accent is desired.",
+    "specifications": {
+        "Category": "Pendant Lighting",
+        "Fixture Type": "Single pendant lamp",
+        "Wattage (W)": "6W - 12W",
+        "Efficacy (lm/W)": "80-100 lm/W",
+        "Light Source": "LED lamp or integrated LED",
+        "Lumen Output": "500 - 1200 lumens",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": ">=80",
+        "Beam Distribution": "Downward and ambient lighting",
+        "Material": "Metal body with shade",
+        "Mount Type": "Ceiling pendant",
+        "Suspension": "Adjustable cord",
+        "Voltage": "220-240V",
+        "Lifetime": "15,000 - 30,000 hours"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Crystal Chandelier Lamp",
+    "desc": "A decorative crystal chandelier featuring a circular gold-tone frame, multiple vertical clear crystal prisms, and a central multi-arm lamp arrangement. The layered crystal design creates a luxurious ambient lighting effect suitable for premium residential and hospitality interiors.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Crystal Chandelier",
+        "Style": "Luxury / Contemporary",
+        "Mount Type": "Ceiling Suspended",
+        "Canopy": "Decorative ceiling canopy",
+        "Suspension": "Single central suspension cable",
+        "Frame": "Circular gold-tone metal frame",
+        "Shade / Decorative Elements": "Clear vertical crystal prisms arranged in layered rings",
+        "Light Source": "Multi-lamp LED / candle-style bulbs",
+        "Estimated Lamp Count": "8",
+        "Delivered Lumens": "Up to 2800 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "40W",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "30000 Hours",
+        "Light Distribution": "Ambient decorative illumination with crystal refraction",
+        "Finish": "Gold-tone metal with clear crystal elements",
+        "Dimensions": "Approx. 600 mm diameter",
+        "Recommended Use": "Living room / Dining room / Lobby / Hotel / Premium residential interiors",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

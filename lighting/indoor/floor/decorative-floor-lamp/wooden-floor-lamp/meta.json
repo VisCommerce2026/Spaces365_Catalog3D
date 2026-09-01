@@ -1,0 +1,19 @@
+{
+    "name": "Wooden Floor Lamp",
+    "desc": "An artistic floor lamp inspired by natural tree branches, designed to bring an organic and sculptural presence into interiors. The curved wooden frame mimics a growing branch while the fabric shade casts a soft, warm glow, making it ideal for cozy living spaces, reading corners, and ambient lighting setups.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Wattage (W)": "8W – 12W",
+        "Efficacy (lm/W)": "90 – 110 lm/W",
+        "Light Source": "E27 LED lamp",
+        "Lumen Output": "700 – 1100 lumens",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": "≥80",
+        "Beam Distribution": "Soft ambient lighting",
+        "Material": "Natural wood frame with fabric shade",
+        "Design Style": "Organic / Nature-inspired",
+        "Base Type": "Round wooden base",
+        "Voltage": "220–240V",
+        "Lifetime": "15,000 – 25,000 hours"
+    }
+}

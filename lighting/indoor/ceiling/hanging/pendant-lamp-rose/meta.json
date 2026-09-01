@@ -1,0 +1,19 @@
+{
+    "name": "Pendant Lamp Rose",
+    "desc": "A sleek pendant light featuring a minimal design with a suspended glass shade. Its clean vertical profile and warm illumination make it ideal for modern interiors, dining areas, kitchen islands, and bedside lighting where subtle elegance is desired.",
+    "specifications": {
+        "Category": "Pendant Lighting",
+        "Wattage (W)": "4W – 8W",
+        "Efficacy (lm/W)": "80 – 100 lm/W",
+        "Light Source": "E27 LED filament bulb",
+        "Lumen Output": "400 – 800 lumens",
+        "CCT Options": "2200K / 2700K / 3000K",
+        "CRI": "≥80",
+        "Beam Distribution": "Omnidirectional ambient lighting",
+        "Material": "Glass shade with metal holder",
+        "Mount Type": "Ceiling pendant",
+        "Suspension": "Adjustable cord",
+        "Voltage": "220–240V",
+        "Lifetime": "15,000 – 20,000 hours"
+    }
+}

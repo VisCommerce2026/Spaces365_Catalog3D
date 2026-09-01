@@ -1,0 +1,20 @@
+{
+    "name": "Legacy Floor Lamp",
+    "desc": "A decorative floor lamp with a timeless interior style, designed to provide soft ambient lighting in living rooms, lounges, bedrooms, and reading corners. Its standing form adds a warm vertical accent while keeping the light source easy to position.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Floor Lamp",
+        "Wattage (W)": "8W - 15W",
+        "Efficacy (lm/W)": "80-110 lm/W",
+        "Light Source": "E27 LED lamp",
+        "Lumen Output": "700 - 1500 lumens",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": ">=80",
+        "Beam Distribution": "Soft ambient lighting",
+        "Material": "Metal or wood stand with fabric shade",
+        "Design Style": "Classic decorative",
+        "Base Type": "Weighted floor base",
+        "Voltage": "220-240V",
+        "Use Case": "Living room / Bedroom / Lounge"
+    }
+}

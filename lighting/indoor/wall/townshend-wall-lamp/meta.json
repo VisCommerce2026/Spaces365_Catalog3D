@@ -1,0 +1,27 @@
+{
+    "name": "Townshend Wall Lamp",
+    "desc": "A rustic-industrial wall sconce featuring a black metal wall plate, a projecting wood-accented arm, and an exposed bulb enclosed within a geometric black wire cage. The fixture provides warm decorative accent lighting suitable for hallways, bedrooms, living spaces, and industrial or farmhouse interiors.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Wall Sconce",
+        "Style": "Industrial / Rustic / Farmhouse",
+        "Mount Type": "Wall Mounted",
+        "Backplate": "Rectangular black metal wall plate",
+        "Arm Material": "Wood-accented horizontal support with black metal brackets",
+        "Shade Material": "Black metal wire cage",
+        "Shade Shape": "Geometric cage",
+        "Light Source": "Single exposed LED or filament-style bulb",
+        "Bulb Base": "E26 / E27",
+        "Delivered Lumens": "Up to 800 lm",
+        "CCT": "2700K",
+        "CRI": "90",
+        "Power": "8W LED equivalent",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "25000 Hours",
+        "Light Distribution": "Warm ambient and downward decorative illumination",
+        "Beam Angle": "Approx. 120°",
+        "Estimated Dimensions": "Approx. 420 mm projection x 300 mm height",
+        "Recommended Use": "Hallway / Bedroom / Living room / Entryway / Cafe / Industrial interiors",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

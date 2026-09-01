@@ -1,0 +1,29 @@
+{
+    "name": "Bradley Task Floor Lamp",
+    "desc": "A classic task-style floor lamp with a slim antique bronze-tone stem, weighted round base, curved support arm, and adjustable dome-shaped metal shade. The focused directional beam makes it suitable for reading, accent lighting, and traditional or industrial-inspired interiors.",
+    "specifications": {
+        "Category": "Task Lighting",
+        "Fixture Type": "Adjustable Floor Lamp",
+        "Style": "Classic / Industrial / Vintage",
+        "Mount Type": "Free Standing",
+        "Base": "Weighted round metal base",
+        "Body": "Tall slim metal stem with curved support arm",
+        "Finish": "Antique bronze / aged brass",
+        "Shade Material": "Metal",
+        "Shade Shape": "Dome / bell-shaped directional shade",
+        "Adjustability": "Tiltable lamp head for directional task lighting",
+        "Light Source": "Single LED or incandescent-style bulb",
+        "Bulb Base": "E26 / E27",
+        "Delivered Lumens": "Up to 800 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "10W LED equivalent",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "25000 Hours",
+        "Beam Angle": "Approx. 45°",
+        "Light Distribution": "Focused directional task and accent illumination",
+        "Estimated Dimensions": "Approx. 1550 mm overall height x 250 mm base diameter",
+        "Recommended Use": "Reading corner / Living room / Bedroom / Study / Lounge",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

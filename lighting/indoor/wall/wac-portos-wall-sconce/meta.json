@@ -1,0 +1,21 @@
+{
+    "name": "WAC Lighting Portos",
+    "desc": "Portos decorative wall-mounted lighting fixture by WAC Lighting, featuring an aluminum body with a ribbed glass diffuser and selectable color temperature.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Wall-Mounted Decorative Fixture",
+        "Delivered Lumens": "961 lm",
+        "CCT": "2700K, 3000K, 3500K, 4000K",
+        "CRI": "90",
+        "Power": "15W, 20W",
+        "Input": "120-277V, 50/60Hz",
+        "ELV Dimming": "100-10%",
+        "TRIAC Dimming": "100-10%",
+        "Rated Life": "50000 Hours",
+        "Construction": "Aluminum body with ribbed glass diffuser",
+        "Color Temperature Adjustability": "Built-in switchable CCT: 2700K / 3000K / 3500K / 4000K",
+        "Driver": "Concealed within the canopy",
+        "Indoor/Outdoor Option": "Available in black finish for indoor/outdoor use (WS-W118618-BK)",
+        "Product Link": "https://waclighting.com/product/portos/"
+    }
+}

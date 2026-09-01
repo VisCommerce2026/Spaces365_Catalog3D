@@ -1,0 +1,20 @@
+{
+    "name": "Nimbus Led Panel",
+    "desc": "A modern ultra-slim LED panel light designed for uniform illumination in residential and commercial spaces. Its clean, minimal profile blends seamlessly with ceilings while delivering bright, glare-free lighting ideal for offices, kitchens, and living areas.",
+    "specifications": {
+        "Category": "Ceiling Lighting",
+        "Wattage (W)": "18W – 36W",
+        "Efficacy (lm/W)": "100 – 120 lm/W",
+        "Light Source": "Integrated LED",
+        "Lumen Output": "1800 – 3600 lumens",
+        "CCT Options": "3000K / 4000K / 6500K",
+        "CRI": "≥80",
+        "Beam Distribution": "Wide uniform lighting",
+        "Diffuser": "Frosted acrylic",
+        "Material": "Aluminum frame with diffuser",
+        "Mount Type": "Surface-mounted ceiling",
+        "Thickness": "Ultra-slim profile",
+        "Voltage": "220–240V",
+        "Lifetime": "30,000 – 50,000 hours"
+    }
+}

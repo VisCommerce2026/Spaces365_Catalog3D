@@ -1,0 +1,22 @@
+{
+    "name": "WAC Lighting Honeymooner",
+    "desc": "Honeymooner decorative suspended lighting fixture by WAC Lighting, featuring an aluminum body with opaline glass for elegant ambient illumination.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Suspended Decorative Fixture",
+        "Delivered Lumens": "3075 lm",
+        "CCT": "1800K-4000K",
+        "CRI": "90",
+        "Power": "20W, 42.3W",
+        "Input": "120-277V, 50/60Hz",
+        "ELV Dimming": "100-10%",
+        "TRIAC Dimming": "100-10%",
+        "Rated Life": "50000 Hours",
+        "Construction": "Aluminum body with opaline glass",
+        "Downrods Included": "Three 12\" and one 6\" downrods for customized length",
+        "Sloped Ceiling": "May be mounted on a sloped ceiling",
+        "Driver": "Concealed within the canopy",
+        "Notes": "Consistency of opaline glass may vary",
+        "Product Link": "https://waclighting.com/product/honeymooner/"
+    }
+}

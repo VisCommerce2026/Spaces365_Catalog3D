@@ -1,0 +1,25 @@
+{
+    "name": "Wall Washer Lamp",
+    "desc": "A compact cylindrical wall-mounted washer light with a matte black body and slim vertical brass-tone accents. The fixture creates symmetrical upward and downward light patterns on the wall, making it suitable for architectural accent lighting in modern residential and hospitality interiors.",
+    "specifications": {
+        "Category": "Architectural Lighting",
+        "Fixture Type": "Up/Down Wall Washer",
+        "Style": "Modern / Minimalist",
+        "Mount Type": "Wall Mounted",
+        "Body Shape": "Compact vertical cylinder",
+        "Body Finish": "Matte black",
+        "Accent Finish": "Brass / gold-tone vertical trims",
+        "Light Source": "Integrated LED",
+        "Delivered Lumens": "Up to 900 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "12W",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "50000 Hours",
+        "Light Distribution": "Symmetrical up and down wall wash",
+        "Beam Angle": "Approx. 45° up / 45° down",
+        "Estimated Dimensions": "Approx. 220 mm height x 120 mm width",
+        "Recommended Use": "Hallway / Living room / Bedroom / Lobby / Accent wall / Hospitality",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

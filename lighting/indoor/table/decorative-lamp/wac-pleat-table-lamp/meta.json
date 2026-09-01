@@ -1,0 +1,18 @@
+{
+    "name": "WAC Lighting Pleat",
+    "desc": "Pleat portable decorative light by WAC Lighting, featuring selectable color temperatures, touch dimming, USB-C charging, and suitability for both indoor and outdoor use.",
+    "specifications": {
+        "Category": "Portable Decorative Lighting",
+        "Fixture Type": "Portable Table Light",
+        "Delivered Lumens": "200 lm",
+        "CCT": "2200K, 2700K, 3000K",
+        "CRI": "85",
+        "Power": "2W",
+        "Input": "USB-C, 50/60Hz",
+        "Controls": "Tap to switch between color temperatures; hold to dim",
+        "Power Supply": "Power supply and USB-C cable included",
+        "Indoor/Outdoor": "Suitable for indoor or outdoor use",
+        "Battery Life": "10+ hours on a single charge",
+        "Product Link": "https://waclighting.com/product/pleat/"
+    }
+}

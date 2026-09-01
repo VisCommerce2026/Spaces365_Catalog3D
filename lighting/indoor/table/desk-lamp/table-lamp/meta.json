@@ -1,0 +1,20 @@
+{
+    "name": "Table Lamp",
+    "desc": "A decorative table lamp designed for bedside tables, console units, desks, and accent furniture. It provides warm ambient lighting in a compact form, making it useful for layered interior lighting and soft evening illumination.",
+    "specifications": {
+        "Category": "Table Lighting",
+        "Fixture Type": "Decorative table lamp",
+        "Wattage (W)": "4W - 10W",
+        "Efficacy (lm/W)": "80-100 lm/W",
+        "Light Source": "E27 LED lamp",
+        "Lumen Output": "400 - 900 lumens",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": ">=80",
+        "Beam Distribution": "Soft ambient lighting",
+        "Material": "Lamp base with fabric or decorative shade",
+        "Mount Type": "Tabletop",
+        "Switch Type": "Inline or base switch",
+        "Voltage": "220-240V",
+        "Use Case": "Bedroom / Living room / Desk accent"
+    }
+}

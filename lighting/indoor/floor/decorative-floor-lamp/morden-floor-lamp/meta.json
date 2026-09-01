@@ -1,0 +1,20 @@
+{
+    "name": "Morden Floor Lamp",
+    "desc": "A modern decorative floor lamp designed to bring clean ambient illumination to contemporary interiors. Its slim standing profile is suitable for living rooms, lounges, offices, and reading spaces where functional lighting and visual style are both important.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Floor Lamp",
+        "Wattage (W)": "8W - 15W",
+        "Efficacy (lm/W)": "90-110 lm/W",
+        "Light Source": "LED lamp or integrated LED",
+        "Lumen Output": "700 - 1500 lumens",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": ">=80",
+        "Beam Distribution": "Ambient and reading light",
+        "Material": "Metal stand with decorative shade",
+        "Design Style": "Modern minimal",
+        "Base Type": "Weighted floor base",
+        "Voltage": "220-240V",
+        "Use Case": "Living room / Office / Reading corner"
+    }
+}

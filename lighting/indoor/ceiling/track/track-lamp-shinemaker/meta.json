@@ -1,0 +1,25 @@
+{
+    "name": "Track Lamp Shinemaker",
+    "desc": "A modern cylindrical track spotlight with a compact adjustable head, dark metallic finish, and focused directional illumination. Designed for track-mounted ceiling installations, it is suitable for accent lighting, display lighting, and general architectural applications.",
+    "specifications": {
+        "Category": "Architectural Lighting",
+        "Fixture Type": "Track Spotlight",
+        "Style": "Modern / Minimalist",
+        "Mount Type": "Track Mounted",
+        "Housing": "Cylindrical metal body",
+        "Finish": "Dark metallic / black finish",
+        "Adjustability": "Rotatable and tiltable directional head",
+        "Light Source": "Integrated LED",
+        "Delivered Lumens": "Up to 1200 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "15W",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "50000 Hours",
+        "Beam Angle": "24°",
+        "Light Distribution": "Focused directional spot illumination",
+        "Estimated Dimensions": "Approx. 75 mm diameter x 180 mm body length",
+        "Recommended Use": "Retail / Gallery / Living room / Kitchen / Display / Accent lighting",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

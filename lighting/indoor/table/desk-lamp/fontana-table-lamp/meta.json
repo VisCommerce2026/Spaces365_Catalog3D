@@ -1,0 +1,28 @@
+{
+    "name": "Fontana Table Lamp",
+    "desc": "A compact decorative table lamp with a rounded translucent white glass base and a tapered fabric shade in a warm beige tone. The lamp produces a soft warm glow and works well as an accent or bedside light for contemporary, transitional, and cozy residential interiors.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Table Lamp",
+        "Style": "Modern / Transitional",
+        "Mount Type": "Tabletop",
+        "Base Material": "Translucent glass",
+        "Base Shape": "Rounded / spherical",
+        "Base Finish": "Frosted white glass",
+        "Shade Material": "Fabric",
+        "Shade Shape": "Tapered drum / cone",
+        "Shade Color": "Warm beige / natural linen",
+        "Light Source": "Single LED or incandescent-style bulb",
+        "Bulb Base": "E26 / E27",
+        "Delivered Lumens": "Up to 600 lm",
+        "CCT": "2700K",
+        "CRI": "90",
+        "Power": "8W LED equivalent",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "25000 Hours",
+        "Light Distribution": "Soft warm ambient illumination",
+        "Estimated Dimensions": "Approx. 300 mm overall height x 180 mm shade diameter",
+        "Recommended Use": "Bedside table / Living room / Side table / Lounge / Ambient accent lighting",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

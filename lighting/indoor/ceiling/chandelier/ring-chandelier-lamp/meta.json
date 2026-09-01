@@ -1,0 +1,28 @@
+{
+    "name": "Ring Chandelier Lamp",
+    "desc": "A contemporary multi-ring LED chandelier featuring three suspended circular light rings arranged at different diameters and heights. The fixture uses a dark metallic frame with integrated diffused light strips, creating a modern sculptural ceiling centerpiece.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Multi-Ring Chandelier",
+        "Style": "Modern / Contemporary",
+        "Mount Type": "Ceiling Suspended",
+        "Number of Rings": "3",
+        "Ring Arrangement": "Three concentric circular rings with different diameters and vertical positions",
+        "Canopy": "Round ceiling canopy",
+        "Suspension": "Multiple thin suspension cables",
+        "Frame": "Dark metallic circular ring frames",
+        "Light Source": "Integrated LED",
+        "Delivered Lumens": "Up to 3200 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "45W",
+        "Input": "120-277V AC, 50/60Hz",
+        "Rated Life": "50000 Hours",
+        "Diffuser": "Continuous diffused light strip integrated into the rings",
+        "Light Distribution": "Broad ambient decorative illumination",
+        "Finish": "Dark metallic / black finish with warm white illuminated rings",
+        "Dimensions": "Approx. 900 mm maximum ring diameter",
+        "Recommended Use": "Living room / Dining room / Lobby / Lounge / Contemporary interiors",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

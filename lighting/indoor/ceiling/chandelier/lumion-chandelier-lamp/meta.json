@@ -1,0 +1,20 @@
+{
+    "name": "Lumion Chandelier Lamp",
+    "desc": "A decorative chandelier lamp designed to act as a statement lighting feature for interiors. Its suspended multi-light composition delivers elegant ambient illumination for living rooms, dining spaces, lobbies, and premium hospitality environments.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Chandelier",
+        "Wattage (W)": "Module dependent",
+        "Efficacy (lm/W)": "80-110 lm/W",
+        "Light Source": "LED or decorative lamp holders",
+        "Lumen Output": "Application dependent",
+        "CCT Options": "2700K / 3000K / 4000K",
+        "CRI": ">=80",
+        "Beam Distribution": "Ambient decorative lighting",
+        "Material": "Metal frame with decorative light elements",
+        "Mount Type": "Ceiling suspended",
+        "Suspension": "Adjustable hanging support",
+        "Voltage": "220-240V",
+        "Use Case": "Living room / Dining room / Lobby"
+    }
+}

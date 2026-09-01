@@ -1,0 +1,20 @@
+{
+    "name": "Nimbus L Shape",
+    "desc": "A contemporary L-shaped LED panel light designed to create a geometric ceiling lighting feature with bright, uniform illumination. Its slim profile and angular form make it suitable for modern offices, corridors, reception areas, and residential interiors.",
+    "specifications": {
+        "Category": "Ceiling Lighting",
+        "Fixture Type": "L-shaped LED panel",
+        "Wattage (W)": "24W - 48W",
+        "Efficacy (lm/W)": "90-120 lm/W",
+        "Light Source": "Integrated LED",
+        "Lumen Output": "2400 - 5200 lumens",
+        "CCT Options": "3000K / 4000K / 6500K",
+        "CRI": ">=80",
+        "Beam Distribution": "Wide uniform lighting",
+        "Diffuser": "Frosted acrylic diffuser",
+        "Material": "Aluminum frame with diffuser",
+        "Mount Type": "Surface-mounted ceiling",
+        "Voltage": "220-240V",
+        "Lifetime": "30,000 - 50,000 hours"
+    }
+}

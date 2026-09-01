@@ -1,0 +1,27 @@
+{
+    "name": "Glass Ball Wall Lamp",
+    "desc": "A decorative wall sconce featuring a glowing opal glass globe suspended within a teardrop-shaped brass frame. The round wall plate, warm metallic detailing, and softly diffused globe create an elegant ambient accent suited to contemporary living spaces, bedrooms, hallways, and hospitality interiors.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Wall Sconce",
+        "Style": "Modern / Contemporary / Glam",
+        "Mount Type": "Wall Mounted",
+        "Backplate": "Round brass-tone wall plate",
+        "Frame": "Teardrop-shaped metal support frame",
+        "Frame Finish": "Polished brass / gold tone",
+        "Shade Material": "Opal glass",
+        "Shade Shape": "Spherical globe",
+        "Shade Finish": "Frosted white",
+        "Light Source": "Integrated LED or compact LED bulb",
+        "Delivered Lumens": "Up to 700 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "9W",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "30000 Hours",
+        "Light Distribution": "Soft omnidirectional ambient illumination",
+        "Estimated Dimensions": "Approx. 520 mm height x 260 mm width",
+        "Recommended Use": "Living room / Bedroom / Hallway / Vanity / Lounge / Hospitality",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

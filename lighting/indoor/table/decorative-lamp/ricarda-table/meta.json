@@ -1,0 +1,28 @@
+{
+    "name": "Ricarda Table Lamp",
+    "desc": "A minimalist globe table lamp featuring a spherical opal glass shade, a slender tapered stem, and a round white marble-style base. Its compact sculptural form provides soft diffused illumination and suits contemporary dining tables, bedside tables, consoles, and modern living spaces.",
+    "specifications": {
+        "Category": "Decorative Lighting",
+        "Fixture Type": "Table Lamp",
+        "Style": "Modern / Minimalist",
+        "Mount Type": "Tabletop",
+        "Base Material": "White marble-style stone",
+        "Base Shape": "Round disc",
+        "Stem Material": "Metal",
+        "Stem Finish": "Champagne / brushed brass tone",
+        "Shade Material": "Opal glass",
+        "Shade Shape": "Spherical globe",
+        "Shade Finish": "Frosted white",
+        "Light Source": "Integrated LED or compact LED bulb",
+        "Delivered Lumens": "Up to 500 lm",
+        "CCT": "3000K",
+        "CRI": "90",
+        "Power": "6W",
+        "Input": "120-240V AC, 50/60Hz",
+        "Rated Life": "30000 Hours",
+        "Light Distribution": "Soft omnidirectional ambient illumination",
+        "Estimated Dimensions": "Approx. 360 mm overall height x 160 mm globe diameter",
+        "Recommended Use": "Dining table / Bedside table / Console / Living room / Lounge",
+        "Indoor/Outdoor": "Indoor use"
+    }
+}

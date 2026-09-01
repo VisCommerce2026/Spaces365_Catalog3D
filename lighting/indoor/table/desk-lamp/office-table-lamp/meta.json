@@ -1,0 +1,21 @@
+{
+    "name": "Office Table Lamp",
+    "desc": "A functional office table lamp designed for focused desk lighting in workspaces and study areas. Its compact form supports task illumination for reading, writing, and computer-adjacent work while keeping the desktop organized.",
+    "specifications": {
+        "Category": "Task Lighting",
+        "Fixture Type": "Office desk lamp",
+        "Wattage (W)": "5W - 12W",
+        "Efficacy (lm/W)": "80-110 lm/W",
+        "Light Source": "Integrated LED or LED lamp",
+        "Lumen Output": "450 - 1200 lumens",
+        "CCT Options": "3000K / 4000K / 6500K",
+        "CRI": ">=80",
+        "Beam Distribution": "Focused task lighting",
+        "Material": "Metal and polymer body",
+        "Mount Type": "Tabletop",
+        "Adjustability": "Adjustable head or arm",
+        "Switch Type": "Touch or inline switch",
+        "Voltage": "220-240V",
+        "Use Case": "Office desk / Study table / Workstation"
+    }
+}
