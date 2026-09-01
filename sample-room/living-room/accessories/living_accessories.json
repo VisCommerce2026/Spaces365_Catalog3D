@@ -1,0 +1,103 @@
+{
+  "room": {
+    "url": "",
+    "sku": "living-room",
+    "id": "460"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "445",
+      "rot": -90,
+      "sku": "tv",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "412",
+      "rot": 0,
+      "sku": "loira",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "197",
+      "rot": 0,
+      "sku": "round-pouf-ottoman",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "197",
+      "rot": 0,
+      "sku": "round-pouf-ottoman",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 3.810150217103386,
+      "y": 1.3815656981763005,
+      "z": 0.5451950341236641
+    },
+    {
+      "x": 0.6486612221147133,
+      "y": 0.0014350050303232331,
+      "z": 0.15396549132308596
+    },
+    {
+      "x": 2.3413291812810577,
+      "y": -0.0068500778131565946,
+      "z": -0.18895292453017815
+    },
+    {
+      "x": 1.344379819986423,
+      "y": -0.006850077813156603,
+      "z": 1.421100372110215
+    },
+    {
+      "x": -3.541402119641743,
+      "y": 0,
+      "z": -2.0878448090115826
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

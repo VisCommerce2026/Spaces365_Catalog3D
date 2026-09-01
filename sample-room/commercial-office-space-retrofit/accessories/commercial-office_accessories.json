@@ -1,0 +1,364 @@
+{
+  "room": {
+    "url": "",
+    "sku": "commercial-office-space-retrofit",
+    "id": "495"
+  },
+  "selectedUids": [],
+  "dayMode": true,
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "452",
+      "uid": "77b87453-e531-4274-9a2e-b40cf01b0ebb",
+      "sku": "geometric-photo-frames",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "452",
+      "uid": "77b87453-e531-4274-9a2e-b40cf01b0ebb",
+      "sku": "photo-frame",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "451",
+      "uid": "a0401819-b780-4a9e-93c9-74aa132524db",
+      "sku": "banana-plant",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "451",
+      "uid": "a0401819-b780-4a9e-93c9-74aa132524db",
+      "sku": "banana-plant",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "wooden-book-shelf",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "wooden-book-shelf",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "224",
+      "uid": "4be2ddfa-8125-4989-92a7-85470d8aa13f",
+      "sku": "office-monitor",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -6.47661018371582,
+      "y": 2.103860378265381,
+      "z": -5.170417308807373
+    },
+    {
+      "x": 8.427188873291016,
+      "y": 2.0999999046325684,
+      "z": 3.173152208328247
+    },
+    {
+      "x": -8.579483985900879,
+      "y": 0,
+      "z": 0.8720217347145081
+    },
+    {
+      "x": -8.579483985900879,
+      "y": 0,
+      "z": 5.319272994995117
+    },
+    {
+      "x": 8.269999504089355,
+      "y": 0,
+      "z": -0.6408964395523071
+    },
+    {
+      "x": 8.269999504089355,
+      "y": 0,
+      "z": 0.8591035604476929
+    },
+    {
+      "x": -2.944204568862915,
+      "y": 0.687653124332428,
+      "z": 4.318809986114502
+    },
+    {
+      "x": -2.944204568862915,
+      "y": 0.687653124332428,
+      "z": 2.0188100337982178
+    },
+    {
+      "x": -2.214204788208008,
+      "y": 0.687653124332428,
+      "z": 2.0188097953796387
+    },
+    {
+      "x": -2.2142043113708496,
+      "y": 0.687653124332428,
+      "z": 4.318809509277344
+    },
+    {
+      "x": 0.7422826290130615,
+      "y": 0.687653124332428,
+      "z": 4.318809986114502
+    },
+    {
+      "x": 0.7422826290130615,
+      "y": 0.687653124332428,
+      "z": 2.0188100337982178
+    },
+    {
+      "x": 1.4722824096679688,
+      "y": 0.687653124332428,
+      "z": 2.0188097953796387
+    },
+    {
+      "x": 1.472282886505127,
+      "y": 0.687653124332428,
+      "z": 4.318809509277344
+    },
+    {
+      "x": -1.12742280960083,
+      "y": 0.687653124332428,
+      "z": -2.702205181121826
+    },
+    {
+      "x": -1.12742280960083,
+      "y": 0.687653124332428,
+      "z": -5.002204895019531
+    },
+    {
+      "x": -0.39742302894592285,
+      "y": 0.687653124332428,
+      "z": -5.0022053718566895
+    },
+    {
+      "x": -0.39742255210876465,
+      "y": 0.687653124332428,
+      "z": -2.7022056579589844
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1,
+    "angle": 171,
+    "radius": 6.6,
+    "height": 4.5
+  },
+  "ies": ""
+}

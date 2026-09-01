@@ -1,0 +1,120 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hospital-room",
+    "id": "463"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "451",
+      "rot": -90,
+      "sku": "hospital-sink",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "442",
+      "rot": 0,
+      "sku": "hospital-drip-system",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "447",
+      "rot": -90,
+      "sku": "hospital-wall-panel",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "445",
+      "rot": 90,
+      "sku": "tv",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.1129721552579355,
+      "y": 0.00145133592094715,
+      "z": -0.7127755411278541
+    },
+    {
+      "x": 2.124145624014241,
+      "y": 0.0031842471510956927,
+      "z": 2.207004613217778
+    },
+    {
+      "x": 2.54955838445642,
+      "y": 1.8626573359530014,
+      "z": 0.43073057895403377
+    },
+    {
+      "x": -2.6684718055875516,
+      "y": 0.00030087154034652563,
+      "z": 4.475498248778239
+    },
+    {
+      "x": -2.7213859704352137,
+      "y": 0.00030087154034652563,
+      "z": -2.5120722649888805
+    },
+    {
+      "x": -3.266955914172377,
+      "y": 1.916942693532632,
+      "z": 0.7289348142409526
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

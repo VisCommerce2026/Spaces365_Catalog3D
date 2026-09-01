@@ -1,0 +1,154 @@
+[
+  {
+    "uuid": "5a6ce409-4632-4f96-a54a-513e190bf48d",
+    "positionData": {
+      "x": -4.173197625488528,
+      "y": 0.5901722959311355,
+      "z": -0.5103186035789824
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "rose-bush",
+    "productID": "462",
+    "lightData": null
+  },
+  {
+    "uuid": "cf337e3c-aea5-4b20-9fc8-14bb49c0b253",
+    "positionData": {
+      "x": -4.177971372195446,
+      "y": 0.5882549716248644,
+      "z": -1.6342912332123702
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "rose-bush",
+    "productID": "462",
+    "lightData": null
+  },
+  {
+    "uuid": "3faaa511-be15-4737-8f56-4b468c4a38ad",
+    "positionData": {
+      "x": 1.3138359415846066,
+      "y": 0.5917846903814649,
+      "z": -5.430927071029711
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "rose-bush",
+    "productID": "462",
+    "lightData": null
+  },
+  {
+    "uuid": "66226aff-85fa-496f-95fb-a75d952cc3b1",
+    "positionData": {
+      "x": 2.4805614784595864,
+      "y": 0.5885110590305953,
+      "z": -5.429150025838557
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "rose-bush",
+    "productID": "462",
+    "lightData": null
+  },
+  {
+    "uuid": "47f3cb63-55c3-410c-9a85-3505ab4a405a",
+    "positionData": {
+      "x": 3.6532264059059494,
+      "y": 0.6039200277354058,
+      "z": -5.429006373678272
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "rose-bush",
+    "productID": "462",
+    "lightData": null
+  },
+  {
+    "uuid": "25f0cdad-c0da-4bad-a4aa-9492154c3262",
+    "positionData": {
+      "x": -4.639096732224881,
+      "y": 1.9174128260096963,
+      "z": 4.798199963921274
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "hanging-plant",
+    "productID": "457",
+    "lightData": null
+  },
+  {
+    "uuid": "4cfa341f-517d-4573-99c7-ff3b034fb3a1",
+    "positionData": {
+      "x": -4.649973488051214,
+      "y": 1.9054807919271899,
+      "z": 3.100456145761212
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "hanging-plant",
+    "productID": "457",
+    "lightData": null
+  },
+  {
+    "uuid": "694c51ce-11a3-4b9e-97f0-669ca4b63e76",
+    "positionData": {
+      "x": -4.652785164430511,
+      "y": 1.9029043529027925,
+      "z": 1.3189098294295012
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "hanging-plant",
+    "productID": "457",
+    "lightData": null
+  }
+]

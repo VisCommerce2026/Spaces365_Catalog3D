@@ -1,0 +1,214 @@
+[
+  {
+    "uuid": "99c389d6-5a05-4dfd-a36f-473a437909ef",
+    "positionData": {
+      "x": 1.0551532275290103,
+      "y": 0.0028904836624860757,
+      "z": -3.8439095322955654
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "bollard-with-lights",
+    "productID": "461",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16761993,
+      "uuid": "99c389d6-5a05-4dfd-a36f-473a437909ef",
+      "is_IES": false,
+      "sku": "bollard-with-lights"
+    }
+  },
+  {
+    "uuid": "8ac3bb68-c84a-4df9-a37f-8bd4a86a643d",
+    "positionData": {
+      "x": 1.0551228917230095,
+      "y": 0.0028904836624860757,
+      "z": -2.1809791878316283
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "bollard-with-lights",
+    "productID": "461",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16761993,
+      "uuid": "8ac3bb68-c84a-4df9-a37f-8bd4a86a643d",
+      "is_IES": false,
+      "sku": "bollard-with-lights"
+    }
+  },
+  {
+    "uuid": "b892a3cf-41ce-469d-a725-99719490b1b1",
+    "positionData": {
+      "x": 1.0550331429511286,
+      "y": 0.0028904836624860757,
+      "z": -0.6805304507101056
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "bollard-with-lights",
+    "productID": "461",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16761993,
+      "uuid": "b892a3cf-41ce-469d-a725-99719490b1b1",
+      "is_IES": false,
+      "sku": "bollard-with-lights"
+    }
+  },
+  {
+    "uuid": "f69e0dfd-e65a-429d-854c-252738972404",
+    "positionData": {
+      "x": 1.0581517842922372,
+      "y": 0.0028904836624860757,
+      "z": 0.8230342990676065
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "bollard-with-lights",
+    "productID": "461",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16761993,
+      "uuid": "f69e0dfd-e65a-429d-854c-252738972404",
+      "is_IES": false,
+      "sku": "bollard-with-lights"
+    }
+  },
+  {
+    "uuid": "dc745edd-a02d-4672-9284-a292cb486a71",
+    "positionData": {
+      "x": 4.39903757572174,
+      "y": 1.0764418155996132,
+      "z": 4.9991428194506335
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "wall-washer-lamp",
+    "productID": "265",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16777215,
+      "uuid": "dc745edd-a02d-4672-9284-a292cb486a71",
+      "is_IES": true,
+      "sku": "wall-washer-lamp",
+      "ies": "https://d8yehkm9vj8za.cloudfront.net/ies_profiles/Bega/50899.2K3.ies"
+    }
+  },
+  {
+    "uuid": "ef65ef6a-bc14-4ccd-92c5-1f68c6b5e2fa",
+    "positionData": {
+      "x": 4.399037575721741,
+      "y": 1.0744878679422962,
+      "z": -3.0842794780666227
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -1.5707963267948966,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "wall-washer-lamp",
+    "productID": "265",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16777215,
+      "uuid": "ef65ef6a-bc14-4ccd-92c5-1f68c6b5e2fa",
+      "is_IES": true,
+      "sku": "wall-washer-lamp",
+      "ies": "https://d8yehkm9vj8za.cloudfront.net/ies_profiles/Bega/50899.2K3.ies"
+    }
+  },
+  {
+    "uuid": "48ddb1e3-584a-44a8-9355-025f95b65d8b",
+    "positionData": {
+      "x": 3.095244267764809,
+      "y": 1.1164211066567904,
+      "z": 6.2206939583438805
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -3.141592653589793,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "wall-washer-lamp",
+    "productID": "265",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16777215,
+      "uuid": "48ddb1e3-584a-44a8-9355-025f95b65d8b",
+      "is_IES": true,
+      "sku": "wall-washer-lamp",
+      "ies": "https://d8yehkm9vj8za.cloudfront.net/ies_profiles/Bega/50899.2K3.ies"
+    }
+  },
+  {
+    "uuid": "ba9641ba-74a9-4fbc-8d90-daa0dd11232b",
+    "positionData": {
+      "x": -1.9215900641109283,
+      "y": 1.1192384832961335,
+      "z": 6.217019487972776
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -3.141592653589793,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "wall-washer-lamp",
+    "productID": "265",
+    "lightData": {
+      "isEmissive": true,
+      "intensity": 0,
+      "color": 16777215,
+      "uuid": "ba9641ba-74a9-4fbc-8d90-daa0dd11232b",
+      "is_IES": true,
+      "sku": "wall-washer-lamp",
+      "ies": "https://d8yehkm9vj8za.cloudfront.net/ies_profiles/Bega/50899.2K3.ies"
+    }
+  }
+]

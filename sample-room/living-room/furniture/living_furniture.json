@@ -1,0 +1,69 @@
+{
+  "room": {
+    "url": "",
+    "sku": "living-room",
+    "id": "460"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "205",
+      "rot": -90,
+      "sku": "modern-l-shape-white-wooden-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "253",
+      "rot": -90,
+      "sku": "marble-coffee-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "237",
+      "rot": -180,
+      "sku": "french-contemporary-glass-4-door-cabinet",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -0.4972867909348701,
+      "y": -0.0015889622692257799,
+      "z": -0.4812505907321486
+    },
+    {
+      "x": 0.637155869857749,
+      "y": -0.0015588890083282347,
+      "z": 0.6224974797711004
+    },
+    {
+      "x": 3.483143211805727,
+      "y": 0.00041104438414252265,
+      "z": 0.539445193350242
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

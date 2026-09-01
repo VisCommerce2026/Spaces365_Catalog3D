@@ -1,0 +1,52 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hospital-room",
+    "id": "463"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "275",
+      "rot": 0,
+      "sku": "classic-floor-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "292",
+      "rot": 0,
+      "sku": "lumion-chandelier-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 3,
+        "color": "#fffefa"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.1287987943699296,
+      "y": 0.00145133592094715,
+      "z": -2.692634727566949
+    },
+    {
+      "x": -0.07916216358232403,
+      "y": 3.3000932782888412,
+      "z": 0.5464817186150186
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

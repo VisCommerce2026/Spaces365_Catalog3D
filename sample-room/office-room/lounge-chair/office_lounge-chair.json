@@ -1,0 +1,35 @@
+{
+  "room": {
+    "url": "",
+    "sku": "office-room",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "244",
+      "rot": 0,
+      "sku": "eames-lounge-chair-and-ottoman",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 1.2066210533448467,
+      "y": 0.0020107999748535006,
+      "z": -0.005378926655639646
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

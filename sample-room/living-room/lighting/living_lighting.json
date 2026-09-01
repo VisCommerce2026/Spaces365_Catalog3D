@@ -1,0 +1,86 @@
+{
+  "room": {
+    "url": "",
+    "sku": "living-room",
+    "id": "460"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "295",
+      "rot": 0,
+      "sku": "modern-minimalist-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "295",
+      "rot": 0,
+      "sku": "modern-minimalist-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "276",
+      "rot": 0,
+      "sku": "wooden-floor-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFEDDE"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "290",
+      "rot": 0,
+      "sku": "ring-chandelier-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFEDDE"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -2.220569098183023,
+      "y": 3.2021599042994406,
+      "z": -0.6150293915468471
+    },
+    {
+      "x": -2.2523991304314275,
+      "y": 3.2039931718338526,
+      "z": 0.6363441696639839
+    },
+    {
+      "x": 3.0863804896207947,
+      "y": 0.009146263003525779,
+      "z": -2.0699162141681025
+    },
+    {
+      "x": 0.0076012040109944,
+      "y": 3.2074081129195813,
+      "z": 0.03766556823194943
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

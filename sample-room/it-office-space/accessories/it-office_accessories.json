@@ -1,0 +1,137 @@
+{
+  "room": {
+    "url": "",
+    "sku": "it-office-space",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "451",
+      "rot": 0,
+      "sku": "banana-plant",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "451",
+      "rot": 0,
+      "sku": "banana-plant",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "452",
+      "rot": -90,
+      "sku": "geometric-photo-frames",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": -90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": -90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": 90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": 90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -3.655294895172119,
+      "y": 0,
+      "z": 6.064945220947266
+    },
+    {
+      "x": 3.544705390930176,
+      "y": 0,
+      "z": 6.064945220947266
+    },
+    {
+      "x": 4.201284885406494,
+      "y": 1.7470418214797974,
+      "z": -1.9006030559539795
+    },
+    {
+      "x": -2.901616096496582,
+      "y": 0.6898589134216309,
+      "z": 2.35040283203125
+    },
+    {
+      "x": -2.901616096496582,
+      "y": 0.6898589134216309,
+      "z": 4.73487663269043
+    },
+    {
+      "x": 0.30161619186401367,
+      "y": 0.6898589134216309,
+      "z": 4.74959659576416
+    },
+    {
+      "x": 0.30161571502685547,
+      "y": 0.6898589134216309,
+      "z": 2.3651230335235596
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

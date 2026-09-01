@@ -1,0 +1,103 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hotel-lobby",
+    "id": "458"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "448",
+      "rot": -90,
+      "sku": "photo-frame",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "445",
+      "rot": 90,
+      "sku": "tv",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "225",
+      "rot": -90,
+      "sku": "wooden-book-shelf",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.5679991485417712,
+      "y": 2.009486495751958,
+      "z": -3.4779579426877794
+    },
+    {
+      "x": 2.3421381533386385,
+      "y": -8.121623925572878e-7,
+      "z": -6.145690810041818
+    },
+    {
+      "x": -2.2929974760823963,
+      "y": 8.302361310818901e-7,
+      "z": -6.190637738870915
+    },
+    {
+      "x": -2.572823917561368,
+      "y": 2.300017088634453,
+      "z": -3.4984996248145843
+    },
+    {
+      "x": 2.3595376279991243,
+      "y": -8.452363614827243e-7,
+      "z": -1.064529301056784
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

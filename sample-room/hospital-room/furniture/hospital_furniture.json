@@ -1,0 +1,69 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hospital-room",
+    "id": "463"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "220",
+      "rot": 0,
+      "sku": "hospital-bed",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "454",
+      "rot": -90,
+      "sku": "hospital-drawer",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "239",
+      "rot": 90,
+      "sku": "simple-cabinet",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 1.2273690888627888,
+      "y": 0.0006716408434856991,
+      "z": 0.46075883007987606
+    },
+    {
+      "x": 2.202361015240954,
+      "y": 0.00145133592094715,
+      "z": 1.4895650118017225
+    },
+    {
+      "x": -2.988993885527043,
+      "y": 0.0014528824316435707,
+      "z": 0.7504298001009436
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

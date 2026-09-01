@@ -1,0 +1,78 @@
+[
+  {
+    "uuid": "861ec150-1ef1-4ea8-90cb-bfa5ab27e76a",
+    "positionData": {
+      "x": -2.5206878525295595,
+      "y": 0.03263741510705962,
+      "z": 2.096996422452727
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0.7853981633974483,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "garden-chair",
+    "productID": "456",
+    "lightData": null
+  },
+  {
+    "uuid": "334067e9-f0d7-4692-abbb-26acd9aebf03",
+    "positionData": {
+      "x": -1.002663110847339,
+      "y": 0.03846390345403675,
+      "z": 3.32079881021149
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": -2.181661564992912,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "garden-chair",
+    "productID": "456",
+    "lightData": null
+  },
+  {
+    "uuid": "2a0bf883-3dd7-4915-b1f8-72eb47d5ba73",
+    "positionData": {
+      "x": -2.5411141657390437,
+      "y": 0.04540754349153653,
+      "z": 3.272080123671115
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 2.6179938779914944,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "garden-chair",
+    "productID": "456",
+    "lightData": null
+  },
+  {
+    "uuid": "75eecd8f-5960-462c-9f20-61dba47b66c2",
+    "positionData": {
+      "x": -1.7868528653119873,
+      "y": 0.02989786919206381,
+      "z": 2.6797539436700837
+    },
+    "rotationData": {
+      "isEuler": true,
+      "_x": 0,
+      "_y": 0,
+      "_z": 0,
+      "_order": "XYZ"
+    },
+    "variantIdx": 0,
+    "sku": "garden-table",
+    "productID": "458",
+    "lightData": null
+  }
+]

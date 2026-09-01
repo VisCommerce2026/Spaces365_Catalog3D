@@ -1,0 +1,516 @@
+{
+  "room": {
+    "url": "",
+    "sku": "commercial-office-space-retrofit",
+    "id": "495"
+  },
+  "selectedUids": [],
+  "dayMode": true,
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "192",
+      "uid": "4c03171f-8442-4675-91c2-5444fc190041",
+      "sku": "advanced-ergonomic-chair",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": -180,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": -180,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "208",
+      "uid": "81c110d2-619d-41bf-b2ed-b8857e32d16b",
+      "sku": "workstation-table",
+      "currVariant": 0,
+      "rot": -180,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "203",
+      "uid": "e85652c9-9969-47fb-a584-d4b075f93085",
+      "sku": "x-frame-glass-top-table",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "239",
+      "uid": "496b6702-cc11-44d1-9438-5d852ed2d61f",
+      "sku": "fulham-upholstered-sofa",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "256",
+      "uid": "ac31e0e3-71fe-41bb-8eab-35061dad4b06",
+      "sku": "casual-sofa",
+      "currVariant": 0,
+      "rot": 60,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "256",
+      "uid": "ac31e0e3-71fe-41bb-8eab-35061dad4b06",
+      "sku": "casual-sofa",
+      "currVariant": 0,
+      "rot": -120,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "256",
+      "uid": "ac31e0e3-71fe-41bb-8eab-35061dad4b06",
+      "sku": "casual-sofa",
+      "currVariant": 0,
+      "rot": 120,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "256",
+      "uid": "ac31e0e3-71fe-41bb-8eab-35061dad4b06",
+      "sku": "casual-sofa",
+      "currVariant": 0,
+      "rot": -60,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "198",
+      "uid": "b077255c-aa17-4af7-83c8-21c0f19dc867",
+      "sku": "casual-table",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "198",
+      "uid": "b077255c-aa17-4af7-83c8-21c0f19dc867",
+      "sku": "casual-table",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -3.864204168319702,
+      "y": -2.9802322387695312e-8,
+      "z": 2.0041816234588623
+    },
+    {
+      "x": -3.864204168319702,
+      "y": -2.9802322387695312e-8,
+      "z": 4.304182052612305
+    },
+    {
+      "x": -1.2642037868499756,
+      "y": -2.9802322387695312e-8,
+      "z": 4.304182052612305
+    },
+    {
+      "x": -1.2642042636871338,
+      "y": -2.9802322387695312e-8,
+      "z": 2.0041818618774414
+    },
+    {
+      "x": -2.044463634490967,
+      "y": -2.9802322387695312e-8,
+      "z": -4.995818138122559
+    },
+    {
+      "x": -2.044463634490967,
+      "y": -2.9802322387695312e-8,
+      "z": -2.6958179473876953
+    },
+    {
+      "x": 0.5555368661880493,
+      "y": -2.9802322387695312e-8,
+      "z": -2.6958179473876953
+    },
+    {
+      "x": 0.5555363893508911,
+      "y": -2.9802322387695312e-8,
+      "z": -4.995818138122559
+    },
+    {
+      "x": -0.19420409202575684,
+      "y": -2.9802322387695312e-8,
+      "z": 2.0041818618774414
+    },
+    {
+      "x": -0.19420409202575684,
+      "y": -2.9802322387695312e-8,
+      "z": 4.304182052612305
+    },
+    {
+      "x": 2.4057960510253906,
+      "y": -2.9802322387695312e-8,
+      "z": 4.304182052612305
+    },
+    {
+      "x": 2.4057955741882324,
+      "y": -2.9802322387695312e-8,
+      "z": 2.0041818618774414
+    },
+    {
+      "x": -3.4956133365631104,
+      "y": 0,
+      "z": 3.1577212810516357
+    },
+    {
+      "x": -1.6662226915359497,
+      "y": 0,
+      "z": 3.1577212810516357
+    },
+    {
+      "x": 0.20172297954559326,
+      "y": 0,
+      "z": 3.1577212810516357
+    },
+    {
+      "x": 2.031113624572754,
+      "y": 0,
+      "z": 3.1577212810516357
+    },
+    {
+      "x": -1.6758726835250854,
+      "y": 0,
+      "z": -3.8455934524536133
+    },
+    {
+      "x": 0.1535179615020752,
+      "y": 0,
+      "z": -3.8455934524536133
+    },
+    {
+      "x": 6.114429473876953,
+      "y": -0.004251617938280106,
+      "z": 3.173032522201538
+    },
+    {
+      "x": 7.808590412139893,
+      "y": 0,
+      "z": 3.173032522201538
+    },
+    {
+      "x": -5.743412971496582,
+      "y": 9.313225746154785e-10,
+      "z": -5.797511577606201
+    },
+    {
+      "x": 4.16717529296875,
+      "y": 0,
+      "z": -4.509963035583496
+    },
+    {
+      "x": -5.743412971496582,
+      "y": 9.313225746154785e-10,
+      "z": -4.497511386871338
+    },
+    {
+      "x": 4.16717529296875,
+      "y": 0,
+      "z": -5.809963226318359
+    },
+    {
+      "x": -4.977530479431152,
+      "y": 0.060947053134441376,
+      "z": -5.166188716888428
+    },
+    {
+      "x": 3.4012928009033203,
+      "y": 0.060947053134441376,
+      "z": -5.1412858963012695
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1,
+    "angle": 171,
+    "radius": 6.6,
+    "height": 4.5
+  },
+  "ies": ""
+}

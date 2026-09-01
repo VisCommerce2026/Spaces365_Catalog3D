@@ -1,0 +1,103 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hotel-lobby",
+    "id": "458"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "235",
+      "rot": 90,
+      "sku": "hotel-reception-desk",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "211",
+      "rot": -90,
+      "sku": "fulham-upholstered-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "199",
+      "rot": 90,
+      "sku": "midcentury-harvey-probber-armchair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "199",
+      "rot": 90,
+      "sku": "midcentury-harvey-probber-armchair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "199",
+      "rot": 90,
+      "sku": "midcentury-harvey-probber-armchair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -1.2998174662948947,
+      "y": 3.582507940094191e-7,
+      "z": -3.992502166968883
+    },
+    {
+      "x": 1.9396639899968893,
+      "y": -3.637677426973532e-7,
+      "z": -3.4651035610983545
+    },
+    {
+      "x": -1.9442175268943656,
+      "y": 8.794605174730297e-7,
+      "z": -1.0601392457878116
+    },
+    {
+      "x": -1.9372980629794667,
+      "y": 7.988628654613023e-7,
+      "z": 0.5341168209029532
+    },
+    {
+      "x": -1.942275797727762,
+      "y": 8.336224997668811e-7,
+      "z": 2.133805734705594
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

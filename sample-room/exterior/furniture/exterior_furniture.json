@@ -1,0 +1,86 @@
+{
+  "room": {
+    "url": "",
+    "sku": "exterior",
+    "id": "461"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "191",
+      "rot": -90,
+      "sku": "costa-teak-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "191",
+      "rot": 90,
+      "sku": "costa-teak-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "254",
+      "rot": -90,
+      "sku": "x-frame-glass-top-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "202",
+      "rot": 0,
+      "sku": "ubud-lounge-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 11.37341918112942,
+      "y": -0.22470908984541893,
+      "z": 7.087241038986538
+    },
+    {
+      "x": 8.37532515580388,
+      "y": -0.22470908984541893,
+      "z": 6.91688225547661
+    },
+    {
+      "x": 9.837027829852863,
+      "y": -0.22470908984541893,
+      "z": 6.979601032258924
+    },
+    {
+      "x": 9.930675573759352,
+      "y": -0.22470908984541893,
+      "z": 5.075236250997721
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

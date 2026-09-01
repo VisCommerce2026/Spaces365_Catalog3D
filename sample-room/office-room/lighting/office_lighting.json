@@ -1,0 +1,69 @@
+{
+  "room": {
+    "url": "",
+    "sku": "office-room",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 2,
+        "color": "#ffcea6"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 2,
+        "color": "#ffcea6"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "297",
+      "rot": 0,
+      "sku": "table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 2,
+        "color": "#ffdabe"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 1.166326106272873,
+      "y": 2.1868898984809952,
+      "z": -1.9347449412345878
+    },
+    {
+      "x": -1.166326106272873,
+      "y": 2.1868898984809952,
+      "z": -1.9347449412345896
+    },
+    {
+      "x": 0.3915030961950585,
+      "y": 0.9190775729469973,
+      "z": 0.21393802940635206
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

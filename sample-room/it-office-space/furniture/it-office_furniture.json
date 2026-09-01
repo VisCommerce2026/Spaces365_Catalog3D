@@ -1,0 +1,324 @@
+{
+  "room": {
+    "url": "",
+    "sku": "it-office-space",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "193",
+      "rot": -90,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 0,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 0,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 0,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 180,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 180,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "193",
+      "rot": 180,
+      "sku": "conference-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "192",
+      "rot": -90,
+      "sku": "advanced-ergonomic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "192",
+      "rot": -90,
+      "sku": "advanced-ergonomic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "192",
+      "rot": 90,
+      "sku": "advanced-ergonomic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "192",
+      "rot": 90,
+      "sku": "advanced-ergonomic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "208",
+      "rot": -180,
+      "sku": "workstation-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "208",
+      "rot": 0,
+      "sku": "workstation-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "204",
+      "rot": 0,
+      "sku": "conference-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "256",
+      "rot": 90,
+      "sku": "casual-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "256",
+      "rot": -165,
+      "sku": "casual-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "256",
+      "rot": -10,
+      "sku": "casual-sofa",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "198",
+      "rot": 0,
+      "sku": "casual-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 0.35729873180389404,
+      "y": 0.013764733448624611,
+      "z": -1.8914788961410522
+    },
+    {
+      "x": -0.44687142968177795,
+      "y": 0.013764731585979462,
+      "z": -3.063746452331543
+    },
+    {
+      "x": -1.5720939636230469,
+      "y": 0.013764739036560059,
+      "z": -3.063746690750122
+    },
+    {
+      "x": -2.7225470542907715,
+      "y": 0.013764731585979462,
+      "z": -3.063746929168701
+    },
+    {
+      "x": -2.722545623779297,
+      "y": 0.013764731585979462,
+      "z": -0.7172623872756958
+    },
+    {
+      "x": -1.5720964670181274,
+      "y": 0.013764731585979462,
+      "z": -0.7172616720199585
+    },
+    {
+      "x": -0.44686996936798096,
+      "y": 0.013764739036560059,
+      "z": -0.7172614336013794
+    },
+    {
+      "x": -1.9000000953674316,
+      "y": 0,
+      "z": 2.4499998092651367
+    },
+    {
+      "x": -1.9000000953674316,
+      "y": 0,
+      "z": 4.649999618530273
+    },
+    {
+      "x": -0.7000001668930054,
+      "y": 0,
+      "z": 4.649999618530273
+    },
+    {
+      "x": -0.6999999284744263,
+      "y": 0,
+      "z": 2.4499998092651367
+    },
+    {
+      "x": -2.200000047683716,
+      "y": 0,
+      "z": 3.549999952316284
+    },
+    {
+      "x": -0.40000006556510925,
+      "y": 0,
+      "z": 3.549999952316284
+    },
+    {
+      "x": -1.585252046585083,
+      "y": 0.013764733448624611,
+      "z": -2.000000476837158
+    },
+    {
+      "x": 1.935056209564209,
+      "y": 0.03180588781833649,
+      "z": -1.9073951244354248
+    },
+    {
+      "x": 3.0338501930236816,
+      "y": 0.03180588781833649,
+      "z": -1.0403645038604736
+    },
+    {
+      "x": 2.984462261199951,
+      "y": 0.03180588781833649,
+      "z": -2.747434616088867
+    },
+    {
+      "x": 2.7916934490203857,
+      "y": 0.028303280472755432,
+      "z": -1.899461269378662
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

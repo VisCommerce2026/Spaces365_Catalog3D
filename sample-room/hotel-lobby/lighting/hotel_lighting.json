@@ -1,0 +1,171 @@
+{
+  "room": {
+    "url": "",
+    "sku": "hotel-lobby",
+    "id": "458"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "round-downlight",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "279",
+      "rot": -90,
+      "sku": "wall-mounted-picture-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffdabb"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "291",
+      "rot": 0,
+      "sku": "crystal-chandelier-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 2.5,
+        "color": "#fff6ed"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "291",
+      "rot": 0,
+      "sku": "crystal-chandelier-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 2.5,
+        "color": "#fff6ed"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.32063,
+      "y": 3.40705,
+      "z": -5.8018
+    },
+    {
+      "x": -2.27937,
+      "y": 3.40705,
+      "z": -5.8018
+    },
+    {
+      "x": 2.32063,
+      "y": 3.40705,
+      "z": -1.2018
+    },
+    {
+      "x": -2.27937,
+      "y": 3.40705,
+      "z": -1.2018
+    },
+    {
+      "x": 2.32063,
+      "y": 3.40705,
+      "z": 3.4982
+    },
+    {
+      "x": -2.27937,
+      "y": 3.40705,
+      "z": 3.4982
+    },
+    {
+      "x": 2.5679991389191077,
+      "y": 3.02306446694426,
+      "z": -3.4830004321222057
+    },
+    {
+      "x": 0,
+      "y": 3.60016,
+      "z": -3.7
+    },
+    {
+      "x": 0,
+      "y": 3.60016,
+      "z": 1.3
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

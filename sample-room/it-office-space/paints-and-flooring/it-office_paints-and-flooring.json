@@ -1,0 +1,132 @@
+{
+  "room": {
+    "url": "",
+    "sku": "it-office-space",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "360",
+      "uid": "404c0bf9-07a4-4f06-86e2-b8a3c2aea04b",
+      "sku": "conch-shell",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "right_wall"
+    },
+    {
+      "url": "",
+      "id": "360",
+      "uid": "6bf08255-1789-4bd0-a817-4aa71604c80f",
+      "sku": "conch-shell",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "360",
+      "uid": "ffb4e82c-7d9c-4b6d-9f06-af1fd17c7d31",
+      "sku": "conch-shell",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "left_wall"
+    },
+    {
+      "url": "",
+      "id": "488",
+      "uid": "76cc9dd4-38b5-457a-bf0b-ca4170f0e5ad",
+      "sku": "office-blue-paint",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "front_wall"
+    },
+    {
+      "url": "",
+      "id": "490",
+      "uid": "466734bb-db4f-436f-b628-cbcd3c09c7cb",
+      "sku": "office-carpet-grey",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor001"
+    },
+    {
+      "url": "",
+      "id": "489",
+      "uid": "03b268eb-f612-4619-ae57-c73b06a630fc",
+      "sku": "silver-mist-marble",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor003"
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 4.201284818769352,
+      "y": 1.4944016042985804,
+      "z": 0.8399029153603708
+    },
+    {
+      "x": 3.670936913332755,
+      "y": 1.6658462542428896,
+      "z": 6.702625022719588
+    },
+    {
+      "x": -4.252370567928892,
+      "y": 1.6502664639612081,
+      "z": 1.0714111177497763
+    },
+    {
+      "x": 0.6672655389915335,
+      "y": 1.8268034018829973,
+      "z": -4.251030969098812
+    },
+    {
+      "x": 0.20097690595173406,
+      "y": 0.028248141723714728,
+      "z": -1.2821133831849485
+    },
+    {
+      "x": 1.2259501534926855,
+      "y": 0,
+      "z": 1.880215488843728
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

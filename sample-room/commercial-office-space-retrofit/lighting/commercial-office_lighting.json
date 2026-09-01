@@ -1,0 +1,535 @@
+{
+  "room": {
+    "url": "",
+    "sku": "commercial-office-space-retrofit",
+    "id": "495"
+  },
+  "selectedUids": [],
+  "dayMode": true,
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "301",
+      "uid": "2a1d012b-2cd2-45d5-8993-b6cec758b094",
+      "sku": "nimbus-led-panel",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffddbc",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "293",
+      "uid": "18c729aa-4530-4180-a753-89c74c43cd5d",
+      "sku": "wall-washer-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffd3a6",
+        "intensity": 2,
+        "enabled": true
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "293",
+      "uid": "18c729aa-4530-4180-a753-89c74c43cd5d",
+      "sku": "wall-washer-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffd3a6",
+        "intensity": 2,
+        "enabled": true
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "293",
+      "uid": "18c729aa-4530-4180-a753-89c74c43cd5d",
+      "sku": "wall-washer-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffd3a6",
+        "intensity": 2,
+        "enabled": true
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "289",
+      "uid": "c95c65df-a622-4876-a2ae-052b3301104a",
+      "sku": "pendant-lamp-rose",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#fff3f1",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "289",
+      "uid": "c95c65df-a622-4876-a2ae-052b3301104a",
+      "sku": "pendant-lamp-rose",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#fff3f1",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "289",
+      "uid": "c95c65df-a622-4876-a2ae-052b3301104a",
+      "sku": "pendant-lamp-rose",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#fff3f1",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "289",
+      "uid": "c95c65df-a622-4876-a2ae-052b3301104a",
+      "sku": "pendant-lamp-rose",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#fff3f1",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "289",
+      "uid": "c95c65df-a622-4876-a2ae-052b3301104a",
+      "sku": "pendant-lamp-rose",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#fff3f1",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "279",
+      "uid": "78465845-e98c-427c-b383-c05bd3a5d0a2",
+      "sku": "legacy-floor-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffc88d",
+        "intensity": 1,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": -160,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": -80,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": -160,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": -80,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 180,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": -80,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    },
+    {
+      "url": "",
+      "id": "268",
+      "uid": "7aa3d7c1-8b7f-43bd-b5c0-36bf4e137b8f",
+      "sku": "table-lamp",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#ffb971",
+        "intensity": 0.5,
+        "enabled": true
+      },
+      "roomFace": "floor"
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.879999876022339,
+      "y": 3.7711074352264404,
+      "z": 4.677750587463379
+    },
+    {
+      "x": 2.879999876022339,
+      "y": 3.7711074352264404,
+      "z": 2.071192502975464
+    },
+    {
+      "x": -0.8800000548362732,
+      "y": 3.7711074352264404,
+      "z": 4.677750587463379
+    },
+    {
+      "x": -0.8800000548362732,
+      "y": 3.7711074352264404,
+      "z": 2.071192502975464
+    },
+    {
+      "x": -4.639999866485596,
+      "y": 3.7711074352264404,
+      "z": 4.677750587463379
+    },
+    {
+      "x": -4.639999866485596,
+      "y": 3.7711074352264404,
+      "z": 2.071192502975464
+    },
+    {
+      "x": 3.8000001907348633,
+      "y": 2,
+      "z": -6.6231770515441895
+    },
+    {
+      "x": -0.7599997520446777,
+      "y": 2,
+      "z": -6.6231770515441895
+    },
+    {
+      "x": -5.319999694824219,
+      "y": 2,
+      "z": -6.6231770515441895
+    },
+    {
+      "x": 0.05348849296569824,
+      "y": 3.321688175201416,
+      "z": -0.190207839012146
+    },
+    {
+      "x": -2.7665114402770996,
+      "y": 3.321688175201416,
+      "z": -0.190207839012146
+    },
+    {
+      "x": -5.589076995849609,
+      "y": 3.321688175201416,
+      "z": -0.190207839012146
+    },
+    {
+      "x": 5.710923194885254,
+      "y": 3.321688175201416,
+      "z": -0.190207839012146
+    },
+    {
+      "x": 2.890923500061035,
+      "y": 3.321688175201416,
+      "z": -0.190207839012146
+    },
+    {
+      "x": 7.808590412139893,
+      "y": 0,
+      "z": 5.673032760620117
+    },
+    {
+      "x": -3.0,
+      "y": 0.6990945935249329,
+      "z": 2.799999952316284
+    },
+    {
+      "x": -3.0,
+      "y": 0.6990945935249329,
+      "z": 3.549999952316284
+    },
+    {
+      "x": 0.7000000476837158,
+      "y": 0.6990945935249329,
+      "z": 2.799999952316284
+    },
+    {
+      "x": 0.7000000476837158,
+      "y": 0.6990945935249329,
+      "z": 3.549999952316284
+    },
+    {
+      "x": 1.499999761581421,
+      "y": 0.6990945935249329,
+      "z": 3.549999713897705
+    },
+    {
+      "x": 1.499999761581421,
+      "y": 0.6990945935249329,
+      "z": 2.799999713897705
+    },
+    {
+      "x": -2.200000286102295,
+      "y": 0.6990945935249329,
+      "z": 3.5500001907348633
+    },
+    {
+      "x": -2.200000286102295,
+      "y": 0.6990945935249329,
+      "z": 2.8000001907348633
+    },
+    {
+      "x": -0.4000002145767212,
+      "y": 0.6990945935249329,
+      "z": -3.4692821502685547
+    },
+    {
+      "x": -0.4000002145767212,
+      "y": 0.6990945935249329,
+      "z": -4.219282150268555
+    },
+    {
+      "x": -1.200000286102295,
+      "y": 0.6990945935249329,
+      "z": -4.217547416687012
+    },
+    {
+      "x": -1.200000286102295,
+      "y": 0.6990945935249329,
+      "z": -3.4675471782684326
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 22.8,
+    "angle": 69,
+    "radius": 6.7,
+    "height": 3.7
+  },
+  "ies": "https://d8yehkm9vj8za.cloudfront.net/ies_profiles/Bega/0d83e8e2ffc52908ad0739079b49c849.ies"
+}

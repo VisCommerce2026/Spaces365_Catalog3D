@@ -1,0 +1,222 @@
+{
+  "room": {
+    "url": "",
+    "sku": "exterior",
+    "id": "461"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "280",
+      "rot": 0,
+      "sku": "wall-washer-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 5,
+        "color": "#ffa757"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "304",
+      "rot": 0,
+      "sku": "serene-pendant-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "304",
+      "rot": 0,
+      "sku": "serene-pendant-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "307",
+      "rot": 0,
+      "sku": "sterling-pedestal-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#ffb16e"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -6.985181871855539,
+      "y": 1.7186403859719883,
+      "z": -6.30448579788208
+    },
+    {
+      "x": -2.763057202200286,
+      "y": 1.7133339875274525,
+      "z": -6.30448579788208
+    },
+    {
+      "x": 2.473080883137203,
+      "y": 1.7162057124751922,
+      "z": -6.30448579788208
+    },
+    {
+      "x": 6.666498402129035,
+      "y": 1.7101001237666194,
+      "z": -6.30448579788208
+    },
+    {
+      "x": -0.10814278365992963,
+      "y": 6.146018300561827,
+      "z": -6.09137599236956
+    },
+    {
+      "x": -0.1151862392741212,
+      "y": 2.8698632083833218,
+      "z": -3.993989120713731
+    },
+    {
+      "x": -2.253065876937312,
+      "y": -0.28201770782470703,
+      "z": 0.7588242148413131
+    },
+    {
+      "x": -2.2342237683402,
+      "y": -0.28201770782470525,
+      "z": 5.238620888154243
+    },
+    {
+      "x": 1.8931434221628978,
+      "y": -0.2820177078247075,
+      "z": 0.7377778450394081
+    },
+    {
+      "x": -2.2474533644161787,
+      "y": -0.2820177078247075,
+      "z": 9.790549454858757
+    },
+    {
+      "x": 1.8828745210565154,
+      "y": -0.28201770782470703,
+      "z": 5.259814187392113
+    },
+    {
+      "x": 1.880666353624839,
+      "y": -0.28201770782470703,
+      "z": 9.765812398187244
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

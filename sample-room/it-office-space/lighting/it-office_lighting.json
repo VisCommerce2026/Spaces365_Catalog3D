@@ -1,0 +1,205 @@
+{
+  "room": {
+    "url": "",
+    "sku": "it-office-space",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "301",
+      "rot": 0,
+      "sku": "nimbus-led-panel",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "301",
+      "rot": 0,
+      "sku": "nimbus-led-panel",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "301",
+      "rot": 0,
+      "sku": "nimbus-led-panel",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "301",
+      "rot": 0,
+      "sku": "nimbus-led-panel",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "282",
+      "rot": 0,
+      "sku": "lumion-chandelier-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "279",
+      "rot": 0,
+      "sku": "legacy-floor-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "283",
+      "rot": -180,
+      "sku": "circle-magnetic-track",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "#FFDABB"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "268",
+      "rot": -119.99999999999999,
+      "sku": "table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16766890"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "268",
+      "rot": -119.99999999999999,
+      "sku": "table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16766890"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "268",
+      "rot": 59.99999999999999,
+      "sku": "table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16766890"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "268",
+      "rot": 59.99999999999999,
+      "sku": "table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16766890"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -2.700000047683716,
+      "y": 2.9588797092437744,
+      "z": 2.299999952316284
+    },
+    {
+      "x": -2.700000047683716,
+      "y": 2.9588797092437744,
+      "z": 4.8000006675720215
+    },
+    {
+      "x": 0.09999990463256836,
+      "y": 2.9588797092437744,
+      "z": 2.299999952316284
+    },
+    {
+      "x": 0.09999990463256836,
+      "y": 2.9588797092437744,
+      "z": 4.8000006675720215
+    },
+    {
+      "x": -1.5499999523162842,
+      "y": 2.9581515789031982,
+      "z": -1.899999976158142
+    },
+    {
+      "x": 3.700000047683716,
+      "y": 0.029011189937591553,
+      "z": -3.7467591762542725
+    },
+    {
+      "x": 3.5045342445373535,
+      "y": 2.9573000723586462,
+      "z": -1.9007868766784668
+    },
+    {
+      "x": -2.6816160678863525,
+      "y": 0.6898589134216309,
+      "z": 3.10040283203125
+    },
+    {
+      "x": -2.6816160678863525,
+      "y": 0.6898589134216309,
+      "z": 4.000402927398682
+    },
+    {
+      "x": 0.08161616325378418,
+      "y": 0.6898589134216309,
+      "z": 3.9995968341827393
+    },
+    {
+      "x": 0.08161568641662598,
+      "y": 0.6898589134216309,
+      "z": 3.0995967388153076
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

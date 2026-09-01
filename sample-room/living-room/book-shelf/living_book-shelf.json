@@ -1,0 +1,35 @@
+{
+  "room": {
+    "url": "",
+    "sku": "living-room",
+    "id": "460"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "225",
+      "rot": 0,
+      "sku": "wooden-book-shelf",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2.8766021218142654
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

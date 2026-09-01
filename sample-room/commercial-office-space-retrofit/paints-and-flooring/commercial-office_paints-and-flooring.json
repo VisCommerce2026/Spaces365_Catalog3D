@@ -1,0 +1,136 @@
+{
+  "room": {
+    "url": "",
+    "sku": "commercial-office-space-retrofit",
+    "id": "469"
+  },
+  "selectedUids": [],
+  "dayMode": true,
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "355",
+      "uid": "1965716b-34c7-44d6-b21d-002715d60457",
+      "sku": "smoke-grey",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "ceiling"
+    },
+    {
+      "url": "",
+      "id": "384",
+      "uid": "f94b1e87-5561-4af9-a108-1eb83606fc28",
+      "sku": "blue-mountain",
+      "currVariant": 0,
+      "rot": 180,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "back_wall"
+    },
+    {
+      "url": "",
+      "id": "384",
+      "uid": "3d869049-bc18-404b-9451-81f439d68c36",
+      "sku": "blue-mountain",
+      "currVariant": 0,
+      "rot": 90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "left_wall"
+    },
+    {
+      "url": "",
+      "id": "384",
+      "uid": "70703c4d-edea-4012-b8d7-0bad17e78324",
+      "sku": "blue-mountain",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "front_wall"
+    },
+    {
+      "url": "",
+      "id": "384",
+      "uid": "065a0fc6-c526-452c-9889-1b5cab1507b6",
+      "sku": "blue-mountain",
+      "currVariant": 0,
+      "rot": -90,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "right_wall"
+    },
+    {
+      "url": "",
+      "id": "400",
+      "uid": "b25134c2-dae9-4d3c-96d3-48b4a91a4f4d",
+      "sku": "turner-road-rigid-core-luxury-vinyl-plank",
+      "currVariant": 0,
+      "rot": 0,
+      "lightData": {
+        "color": "#FFFFFF",
+        "intensity": 0,
+        "enabled": false
+      },
+      "roomFace": "floor"
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 2.0920441248801747,
+      "y": 3.320000022649765,
+      "z": -0.7481551276126275
+    },
+    {
+      "x": 4.066208389143497,
+      "y": 1.9714254362856232,
+      "z": -6.621526128479445
+    },
+    {
+      "x": 8.427025979057246,
+      "y": 1.885256930215528,
+      "z": 4.151325493396817
+    },
+    {
+      "x": -0.1796046642617418,
+      "y": 2.0994998387971355,
+      "z": 6.378611668953652
+    },
+    {
+      "x": -6.475853457052836,
+      "y": 2.063797054828535,
+      "z": -4.334830195907852
+    },
+    {
+      "x": 0.7866101729384318,
+      "y": 0,
+      "z": -1.1904936763378928
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1,
+    "angle": 171,
+    "radius": 6.6,
+    "height": 4.5
+  },
+  "ies": ""
+}

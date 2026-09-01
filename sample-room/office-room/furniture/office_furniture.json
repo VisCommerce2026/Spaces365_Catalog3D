@@ -1,0 +1,70 @@
+{
+  "room": {
+    "url": "",
+    "sku": "office-room",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "currVariant": 0,
+      "id": "430",
+      "lightData": {
+        "enabled": false,
+        "intensity": 1,
+        "color": "#ffffff"
+      },
+      "rot": 1.5707963267948966,
+      "sku": "horizontal-blind",
+      "uid": "365a44ba-623a-4c3b-97f0-50990efec20c"
+    },
+    {
+      "url": "",
+      "id": "240",
+      "rot": 0,
+      "sku": "bucket-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "263",
+      "rot": -180,
+      "sku": "motorized-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -1.8900932879671826,
+      "y": 1.7923274137210685,
+      "z": 0.01116174396691516
+    },
+    {
+      "x": -0.6925409285705164,
+      "y": -0.0014285594700936773,
+      "z": -0.7650786269624883
+    },
+    {
+      "x": -0.6537734237767118,
+      "y": 0.0015230650781061783,
+      "z": 0.09676055522032187
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

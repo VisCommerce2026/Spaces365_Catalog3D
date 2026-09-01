@@ -1,0 +1,52 @@
+{
+  "room": {
+    "url": "",
+    "sku": "exterior",
+    "id": "461"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 8.799668316790385,
+      "y": -0.22470908984541804,
+      "z": 5.427893404251989
+    },
+    {
+      "x": 10.984009874026174,
+      "y": -0.22470908984541715,
+      "z": 5.427459307861138
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}

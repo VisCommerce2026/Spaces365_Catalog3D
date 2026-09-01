@@ -1,0 +1,120 @@
+{
+  "room": {
+    "url": "",
+    "sku": "office-room",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "444",
+      "rot": 0,
+      "sku": "glass-flower-pot",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "443",
+      "rot": 0,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "456",
+      "rot": 0,
+      "sku": "rectangle-mirror",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "438",
+      "rot": 0,
+      "sku": "horizontal-blind",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "453",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "448",
+      "rot": -89.99999879258174,
+      "sku": "photo-frame",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": -1.6097336710696288,
+      "y": 0.9129607200323218,
+      "z": 0.2386545478973487
+    },
+    {
+      "x": -0.6100485128144826,
+      "y": 0.9130040270527422,
+      "z": 0.43932422010718236
+    },
+    {
+      "x": 0.0011208338300301435,
+      "y": 2.044690295661644,
+      "z": -1.9347449412345878
+    },
+    {
+      "x": -1.92,
+      "y": 1.7,
+      "z": 0
+    },
+    {
+      "x": -1.5787415591019778,
+      "y": -0.0011519767105982214,
+      "z": 1.6534617539686
+    },
+    {
+      "x": 1.9441839923858644,
+      "y": 1.617444899963527,
+      "z": 0.3038345668874829
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}
