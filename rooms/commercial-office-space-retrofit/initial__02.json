@@ -1,0 +1,940 @@
+{
+  "room": {
+    "url": "",
+    "sku": "commercial-office-space-retrofit",
+    "id": "495"
+  },
+  "selectedUids": [],
+  "dayMode": true,
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "194",
+      "rot": -90,
+      "sku": "office-book-shelf",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": -90,
+      "sku": "office-book-shelf",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": 90,
+      "sku": "office-book-shelf",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": 90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": -90,
+      "sku": "office-basic-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -180,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -180,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -180,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-hanging-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "office-down-light",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -90,
+      "sku": "office-monitor",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 0.23852944374084473,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": -5.448969841003418,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": 5.863529682159424,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": -3.8942041397094727,
+      "y": -2.9802322387695312e-8,
+      "z": 2.904181718826294
+    },
+    {
+      "x": -3.8942041397094727,
+      "y": -2.9802322387695312e-8,
+      "z": 4.404181480407715
+    },
+    {
+      "x": -1.3254542350769043,
+      "y": -2.9802322387695312e-8,
+      "z": 4.404181480407715
+    },
+    {
+      "x": -1.3254542350769043,
+      "y": -2.9802322387695312e-8,
+      "z": 2.904181718826294
+    },
+    {
+      "x": 1.7307956218719482,
+      "y": -2.9802322387695312e-8,
+      "z": 2.904181718826294
+    },
+    {
+      "x": 1.7307956218719482,
+      "y": -2.9802322387695312e-8,
+      "z": 4.404181480407715
+    },
+    {
+      "x": 4.299546241760254,
+      "y": -2.9802322387695312e-8,
+      "z": 4.404181480407715
+    },
+    {
+      "x": 4.299546241760254,
+      "y": -2.9802322387695312e-8,
+      "z": 2.904181718826294
+    },
+    {
+      "x": -3.8942041397094727,
+      "y": -2.9802322387695312e-8,
+      "z": -4.595818519592285
+    },
+    {
+      "x": -3.8942041397094727,
+      "y": -2.9802322387695312e-8,
+      "z": -3.095818281173706
+    },
+    {
+      "x": -1.3254542350769043,
+      "y": -2.9802322387695312e-8,
+      "z": -3.095818281173706
+    },
+    {
+      "x": -1.3254542350769043,
+      "y": -2.9802322387695312e-8,
+      "z": -4.595818519592285
+    },
+    {
+      "x": -2.610589027404785,
+      "y": 3.7421998977661133,
+      "z": 3.656139373779297
+    },
+    {
+      "x": 3.01615571975708,
+      "y": 3.7421998977661133,
+      "z": 3.656139373779297
+    },
+    {
+      "x": -5.460589408874512,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": 0.239410400390625,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": 5.889410495758057,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": -2.610589027404785,
+      "y": 3.7421998977661133,
+      "z": -3.843860626220703
+    },
+    {
+      "x": -3.2105894088745117,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": -2.010589361190796,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": 2.489410877227783,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": 3.689410924911499,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": -5.460589408874512,
+      "y": 3.7513034343719482,
+      "z": 4.256139755249023
+    },
+    {
+      "x": -7.710589408874512,
+      "y": 3.312199831008911,
+      "z": -0.3438606262207031
+    },
+    {
+      "x": -5.460589408874512,
+      "y": 3.7513034343719482,
+      "z": 3.0561392307281494
+    },
+    {
+      "x": 3.390638589859009,
+      "y": 3.7513034343719482,
+      "z": -3.2431812286376953
+    },
+    {
+      "x": 3.390638589859009,
+      "y": 3.7513034343719482,
+      "z": -4.443181991577148
+    },
+    {
+      "x": 0.239410400390625,
+      "y": 3.7513034343719482,
+      "z": 4.256139755249023
+    },
+    {
+      "x": 0.239410400390625,
+      "y": 3.7513034343719482,
+      "z": 3.0561392307281494
+    },
+    {
+      "x": 5.864410400390625,
+      "y": 3.7513034343719482,
+      "z": 4.256139755249023
+    },
+    {
+      "x": 5.864410400390625,
+      "y": 3.7513034343719482,
+      "z": 3.0561392307281494
+    },
+    {
+      "x": 0.3906385898590088,
+      "y": 3.7513034343719482,
+      "z": -3.2431812286376953
+    },
+    {
+      "x": 0.3906385898590088,
+      "y": 3.7513034343719482,
+      "z": -4.443181991577148
+    },
+    {
+      "x": -3.144204616546631,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": -2.081704616546631,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": 2.480795383453369,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": 3.543295383453369,
+      "y": -2.9802322387695312e-8,
+      "z": 3.654181718826294
+    },
+    {
+      "x": -3.144204616546631,
+      "y": -2.9802322387695312e-8,
+      "z": -3.845818519592285
+    },
+    {
+      "x": -2.081704616546631,
+      "y": -2.9802322387695312e-8,
+      "z": -3.845818519592285
+    },
+    {
+      "x": -2.3317041397094727,
+      "y": 0.8760963082313538,
+      "z": 4.404181480407715
+    },
+    {
+      "x": -2.894204616546631,
+      "y": 0.8760963082313538,
+      "z": 4.404181480407715
+    },
+    {
+      "x": -2.3317041397094727,
+      "y": 0.8760963082313538,
+      "z": 2.904181718826294
+    },
+    {
+      "x": -2.894204616546631,
+      "y": 0.8760963082313538,
+      "z": 2.904181718826294
+    },
+    {
+      "x": 3.2932956218719482,
+      "y": 0.8760963082313538,
+      "z": 4.404181480407715
+    },
+    {
+      "x": 2.730795383453369,
+      "y": 0.8760963082313538,
+      "z": 4.404181480407715
+    },
+    {
+      "x": 3.2932956218719482,
+      "y": 0.8760963082313538,
+      "z": 2.904181718826294
+    },
+    {
+      "x": 2.730795383453369,
+      "y": 0.8760963082313538,
+      "z": 2.904181718826294
+    },
+    {
+      "x": -2.3317041397094727,
+      "y": 0.8760963082313538,
+      "z": -3.095818281173706
+    },
+    {
+      "x": -2.894204616546631,
+      "y": 0.8760963082313538,
+      "z": -3.095818281173706
+    },
+    {
+      "x": -2.3317041397094727,
+      "y": 0.8760963082313538,
+      "z": -4.595818519592285
+    },
+    {
+      "x": -2.894204616546631,
+      "y": 0.8760963082313538,
+      "z": -4.595818519592285
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1,
+    "angle": 171,
+    "radius": 6.6,
+    "height": 4.5
+  },
+  "ies": ""
+}

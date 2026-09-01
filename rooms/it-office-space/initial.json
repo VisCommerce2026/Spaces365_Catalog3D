@@ -1,0 +1,426 @@
+{
+  "room": {
+    "url": "",
+    "sku": "it-office-space",
+    "id": "457"
+  },
+  "selectedUids": [],
+  "pitchDark": false,
+  "models": [
+    {
+      "url": "",
+      "id": "194",
+      "rot": -90,
+      "sku": "office-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": -90,
+      "sku": "office-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": 90,
+      "sku": "office-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "194",
+      "rot": 90,
+      "sku": "office-chair",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": 90,
+      "sku": "motorized-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": -90,
+      "sku": "motorized-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": 90,
+      "sku": "motorized-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "205",
+      "rot": -90,
+      "sku": "motorized-table",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": 0,
+      "sku": "wooden-dining-set",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "209",
+      "rot": 0,
+      "sku": "wooden-dining-set",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": 0,
+      "sku": "nimbus-l-shape",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "302",
+      "rot": -180,
+      "sku": "nimbus-l-shape",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "287",
+      "rot": 0,
+      "sku": "pendant-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "276",
+      "rot": 0,
+      "sku": "classic-floor-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 1,
+        "color": "16767675"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "office-table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16777215"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "office-table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16777215"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "office-table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16777215"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "266",
+      "rot": 0,
+      "sku": "office-table-lamp",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0.5,
+        "color": "16777215"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "449",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "449",
+      "rot": 0,
+      "sku": "decorative-vase",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": -90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": -90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": 90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    },
+    {
+      "url": "",
+      "id": "450",
+      "rot": 90,
+      "sku": "dual-monitor-with-stand",
+      "lightData": {
+        "enabled": true,
+        "intensity": 0,
+        "color": "#ffffff"
+      },
+      "currVariant": 0
+    }
+  ],
+  "modelPos": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2.299999952316284
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4.699999809265137
+    },
+    {
+      "x": -2.6000001430511475,
+      "y": 0,
+      "z": 2.299999952316284
+    },
+    {
+      "x": -2.6000001430511475,
+      "y": 0,
+      "z": 4.699999809265137
+    },
+    {
+      "x": -0.8048499822616577,
+      "y": 0,
+      "z": 2.2552199363708496
+    },
+    {
+      "x": -1.8048498630523682,
+      "y": 0,
+      "z": 2.3447799682617188
+    },
+    {
+      "x": -0.8048498034477234,
+      "y": 0,
+      "z": 4.655220031738281
+    },
+    {
+      "x": -1.8048497438430786,
+      "y": 0,
+      "z": 4.74478006362915
+    },
+    {
+      "x": -2.200000047683716,
+      "y": 0,
+      "z": -2.1000001430511475
+    },
+    {
+      "x": -0.3999998867511749,
+      "y": 0,
+      "z": -2.1000001430511475
+    },
+    {
+      "x": 0,
+      "y": 2.957337088821252,
+      "z": 4.800000190734863
+    },
+    {
+      "x": -2.6000003814697266,
+      "y": 2.957337088821252,
+      "z": 2.200000286102295
+    },
+    {
+      "x": -1.3000000715255737,
+      "y": 2.957337088821252,
+      "z": -2.1000001430511475
+    },
+    {
+      "x": 3.6000001430511475,
+      "y": 0,
+      "z": -3.6000001430511475
+    },
+    {
+      "x": -0.9090822339057922,
+      "y": 0.9155818223953247,
+      "z": 3.8543498516082764
+    },
+    {
+      "x": -0.9090822339057922,
+      "y": 0.9155818223953247,
+      "z": 1.4543497562408447
+    },
+    {
+      "x": -1.7090822458267212,
+      "y": 0.9155818223953247,
+      "z": 5.554349899291992
+    },
+    {
+      "x": -1.7090822458267212,
+      "y": 0.9155818223953247,
+      "z": 3.1543498039245605
+    },
+    {
+      "x": -3.877243757247925,
+      "y": 0,
+      "z": 6.325023174285889
+    },
+    {
+      "x": 3.832756757736206,
+      "y": 0,
+      "z": 6.325023174285889
+    },
+    {
+      "x": -1.1090822219848633,
+      "y": 0.9155818223953247,
+      "z": 2.304349899291992
+    },
+    {
+      "x": -1.1090822219848633,
+      "y": 0.9155818223953247,
+      "z": 4.704349994659424
+    },
+    {
+      "x": -1.5090821981430054,
+      "y": 0.9155818223953247,
+      "z": 2.304349899291992
+    },
+    {
+      "x": -1.5090821981430054,
+      "y": 0.9155818223953247,
+      "z": 4.704349994659424
+    }
+  ],
+  "sunlight": {
+    "enabled": true,
+    "intensity": 1
+  },
+  "ies": ""
+}
