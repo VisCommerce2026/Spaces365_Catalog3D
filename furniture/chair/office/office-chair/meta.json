@@ -1,0 +1,19 @@
+{
+    "name": "Office Chair",
+    "desc": "A practical office chair designed for everyday desk work in professional and home workspaces. The supportive backrest, cushioned seat, armrests, and rolling base provide comfortable mobility and seating support for regular use.",
+    "specifications": {
+        "Category": "Office Furniture",
+        "Chair Type": "Task Office Chair",
+        "Upholstery": "Fabric or synthetic upholstery",
+        "Color": "Neutral office finish",
+        "Frame Material": "Metal and reinforced polymer",
+        "Base": "5-star base with casters",
+        "Armrests": "Fixed or padded armrests",
+        "Seat Height Adjustment": "Gas lift mechanism",
+        "Recline Mechanism": "Basic tilt function",
+        "Mobility": "360-degree swivel with rolling casters",
+        "Ergonomics": "Contoured back and cushioned seat",
+        "Weight Capacity": "Up to 100-120 kg",
+        "Use Case": "Office / Home workspace"
+    }
+}

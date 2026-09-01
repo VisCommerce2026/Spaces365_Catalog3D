@@ -1,0 +1,20 @@
+{
+    "name": "Advanced Ergonomic Chair",
+    "desc": "A premium ergonomic office chair designed for long hours of comfortable seating. Featuring a high backrest with adjustable headrest, padded armrests, and a contoured seat, it provides optimal lumbar support and posture alignment for professional work environments.",
+    "specifications": {
+        "Category": "Office Furniture",
+        "Chair Type": "Ergonomic Executive Chair",
+        "Upholstery": "Faux leather",
+        "Color": "Brown",
+        "Frame Material": "Metal and reinforced polymer",
+        "Base": "5-star aluminum base with casters",
+        "Headrest": "Adjustable",
+        "Armrests": "Height-adjustable padded armrests",
+        "Seat Height Adjustment": "Gas lift mechanism",
+        "Recline Mechanism": "Tilt and lock function",
+        "Mobility": "360° swivel with rolling casters",
+        "Ergonomics": "Lumbar support with contoured back",
+        "Weight Capacity": "Up to 120–150 kg",
+        "Use Case": "Office / Home workspace"
+    }
+}

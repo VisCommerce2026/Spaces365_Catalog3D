@@ -1,0 +1,18 @@
+{
+    "name": "Conference Chair",
+    "desc": "A comfortable conference chair designed for meeting rooms, visitor areas, and collaborative workspaces. Its supportive seat, streamlined backrest, and professional form make it suitable for long discussions and shared office environments.",
+    "specifications": {
+        "Category": "Office Furniture",
+        "Chair Type": "Conference Chair",
+        "Upholstery": "Fabric or faux leather",
+        "Color": "Neutral office finish",
+        "Frame Material": "Metal frame with reinforced support",
+        "Base": "Stable sled or leg base",
+        "Armrests": "Integrated arm support",
+        "Seat": "Cushioned seat pad",
+        "Backrest": "Supportive mid-back design",
+        "Mobility": "Stationary seating",
+        "Ergonomics": "Comfortable posture support for meetings",
+        "Use Case": "Conference room / Meeting room / Visitor seating"
+    }
+}
