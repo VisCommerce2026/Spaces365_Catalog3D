@@ -1,0 +1,19 @@
+{
+    "name": "Motorized Table",
+    "desc": "A height-adjustable motorized office table designed for flexible sit-stand working. Its clean rectangular work surface, powered lift system, and sturdy metal frame support ergonomic posture changes throughout the day while maintaining a professional workspace appearance.",
+    "specifications": {
+        "Category": "Office Furniture",
+        "Table Type": "Motorized Sit-Stand Desk",
+        "Adjustment Type": "Electric height adjustment",
+        "Material": "Engineered wood top with metal frame",
+        "Finish": "Modern laminate work surface",
+        "Frame Material": "Powder-coated steel",
+        "Control": "Push-button height control",
+        "Motor": "Integrated electric lift motor",
+        "Stability": "Reinforced cross-frame support",
+        "Cable Management": "Under-desk cable routing support",
+        "Ergonomics": "Supports sitting and standing work positions",
+        "Use Case": "Office / Home workspace",
+        "Assembly": "Knock-down assembly required"
+    }
+}

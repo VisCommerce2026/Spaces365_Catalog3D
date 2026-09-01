@@ -1,0 +1,18 @@
+{
+    "name": "Conference Table",
+    "desc": "A modern conference table designed for meeting rooms, collaborative offices, and boardroom settings. Its broad tabletop provides comfortable seating capacity for group discussions, presentations, and shared work while maintaining a clean professional profile.",
+    "specifications": {
+        "Category": "Office Furniture",
+        "Table Type": "Conference Table",
+        "Configuration": "Large meeting table",
+        "Material": "Engineered wood top with structural base",
+        "Finish": "Premium laminate finish",
+        "Frame Material": "Metal and engineered wood support",
+        "Seating Capacity": "Suitable for multi-person meetings",
+        "Cable Management": "Provision for meeting-room wiring",
+        "Mount Type": "Floor standing",
+        "Design Style": "Modern corporate",
+        "Use Case": "Conference room / Boardroom / Office",
+        "Assembly": "Knock-down assembly required"
+    }
+}
